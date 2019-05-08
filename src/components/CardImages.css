@@ -1,0 +1,24 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+form{
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+  color: FireBrick;
+}
+#logo{
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 20%;
+}
+img{
+  object-fit: cover;
+}
